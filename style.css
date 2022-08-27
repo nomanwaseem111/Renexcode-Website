@@ -234,7 +234,8 @@ span{
 
       .nav-link{
         padding: 20px !important;
-        margin-right: 100px;
+        margin-right: 45px;
+        margin-top: 10px;
     }
 
     .btn{
@@ -243,7 +244,7 @@ span{
         box-shadow: 0 10px 15px 0 rgb(175 0 87 / 20%);
         color: #ffff;
         border: none;
-        margin-left: 56px;    
+        margin-left: 80px;    
         font-size: 14px;
         border-radius: 30px;
         width: 130px;
