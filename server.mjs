@@ -46,9 +46,9 @@ app.post('/signup', (req, res) => {
     newUser.save((error,result) => {
          
          if(!error){
-            res.status(201).send({message : "User is Signup"})
+            res.status(201).send({ message : "User is Signup" })
          }else{
-            res.status(500).send({message : "Internal Server Error"})
+            res.status(500).send({ message : "Internal Server Error" })
 
          }
 
