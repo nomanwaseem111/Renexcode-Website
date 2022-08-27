@@ -217,7 +217,7 @@ span{
      
       .navbar-toggler{
         background-color: #fff;
-        margin-right: 50px;
+        margin-right: 10px;
         width: 40px;
         height: 36px;
         padding-right: 31px;
@@ -286,7 +286,7 @@ span{
     .right{
     
         padding: 30px;
-        width: 265px;
+        width: 310px;
         background-color: #fff;
         margin-left: 14px;
         border-radius: 25px;
@@ -341,20 +341,20 @@ span{
     }
 
     .pink{
-        font-size: 12px;
+        font-size: 14px;
         color: #e9067f;
-        padding-right: 50px;
+        padding-right: 4px;
     }
     
     .black{
-        font-size: 12px;
-        padding-right: 46px;
+        font-size: 16px;
+        padding-right: 1px;
 
     }
 
 
 hr{
-    width: 200px;
+    width: 270px;
     margin-right: 50px;
 }
 
@@ -367,9 +367,9 @@ hr{
 }
 
 .img-one{
-    max-width: 18%;
+    max-width: 20%;
     height: auto;
-    margin-bottom: 88px;
+    margin-bottom: 68px;
     margin-right: 13px;
 
 }
@@ -380,9 +380,9 @@ hr{
     justify-content: space-around;
     align-items: center;
     margin-bottom: 20px;
-    width: 250px;
+    width: 300px;
     height: 160px;
-    margin-right: 38px;
+    margin-right: 1px;
     padding-left: 18px;
 }
 
@@ -391,7 +391,7 @@ hr{
 }
 
 span{
-    font-size: 16px;
+    font-size: 18px;
 }
 
 
